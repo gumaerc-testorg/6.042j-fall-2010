@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Induction'
 uid: 538a5a75-a309-7832-4d0b-a06505eff624
 video_files:
   archive_url: http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec02_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/bf62753df9ea5b6cbdf73887ca43ffd1_z8HKWUWS-lA.vtt
+  video_captions_file: /courses/6-042j-mathematics-for-computer-science-fall-2010/bf62753df9ea5b6cbdf73887ca43ffd1_z8HKWUWS-lA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/z8HKWUWS-lA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/3e3c5ae1dd04aab8de88a9cf9f16544f_z8HKWUWS-lA.pdf
+  video_transcript_file: /courses/6-042j-mathematics-for-computer-science-fall-2010/3e3c5ae1dd04aab8de88a9cf9f16544f_z8HKWUWS-lA.pdf
 video_metadata:
   youtube_id: z8HKWUWS-lA
 ---

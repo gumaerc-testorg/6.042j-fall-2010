@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information about Expectation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/b61628dbe4b2e1d264f12c8ada491766_MIT6_042JF10_chap18.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2010/b61628dbe4b2e1d264f12c8ada491766_MIT6_042JF10_chap18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: '6.042J Chapter 18: Expectation'
 uid: b61628db-e4b2-e1d2-64f1-2c8ada491766

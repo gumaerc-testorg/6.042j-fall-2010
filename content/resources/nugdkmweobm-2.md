@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/9e1fdc4fadf45c179910013b3448249e_NuGDkmwEObM.vtt
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2010/9e1fdc4fadf45c179910013b3448249e_NuGDkmwEObM.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 9e1fdc4f-adf4-5c17-9910-013b3448249e

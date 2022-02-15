@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 23: Expectation II'
 uid: ffc3342f-eaa1-ee9e-66c8-d6cdbb30ca8d
 video_files:
   archive_url: http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec23_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/aaa44706c6a952dba5c2de829dbf0515_oI9fMUqgfxY.vtt
+  video_captions_file: /courses/6-042j-mathematics-for-computer-science-fall-2010/aaa44706c6a952dba5c2de829dbf0515_oI9fMUqgfxY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/oI9fMUqgfxY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/dc4f198af215cde514be1c46c806d063_oI9fMUqgfxY.pdf
+  video_transcript_file: /courses/6-042j-mathematics-for-computer-science-fall-2010/dc4f198af215cde514be1c46c806d063_oI9fMUqgfxY.pdf
 video_metadata:
   youtube_id: oI9fMUqgfxY
 ---

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Introduction and Proofs'
 uid: db3197f7-6341-e501-7ef0-8ba6f5850f78
 video_files:
   archive_url: http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec01_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/85c8033144aa50c8ae567f744dc1356b_L3LMbpZIKhQ.vtt
+  video_captions_file: /courses/6-042j-mathematics-for-computer-science-fall-2010/85c8033144aa50c8ae567f744dc1356b_L3LMbpZIKhQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/L3LMbpZIKhQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/35948f025420c52f2c6c18d2da9e266b_L3LMbpZIKhQ.pdf
+  video_transcript_file: /courses/6-042j-mathematics-for-computer-science-fall-2010/35948f025420c52f2c6c18d2da9e266b_L3LMbpZIKhQ.pdf
 video_metadata:
   youtube_id: L3LMbpZIKhQ
 ---
