@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2fed6634-52c5-103a-ec78-02b3223aa48e
 resourcetype: Document
 title: MIT6_042JF10_fnl_2006_sol.pdf
 uid: 0784229b-e9fe-fe9b-d73a-e0f320995412

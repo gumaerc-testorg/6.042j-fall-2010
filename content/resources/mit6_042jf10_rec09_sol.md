@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 088adbb7-d512-5527-c5ec-766f9536ea40
 resourcetype: Document
 title: MIT6_042JF10_rec09_sol.pdf
 uid: 000384de-7021-4ce8-60b4-5a5c3fc4ba6b

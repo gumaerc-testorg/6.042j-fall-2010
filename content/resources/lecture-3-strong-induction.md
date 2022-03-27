@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Top Ten Proof Techniques Not Allowed in 6.042 ([PDF](resources/mit6_042jf10_proof))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Strong Induction'
 uid: a5d908a7-33ca-e6fd-5116-94b5e53c197c
 video_files:

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 128af59a-7371-3799-436b-b5af64143a22
 resourcetype: Document
 title: '6.042J Chapter 14: Events and probability spaces'
 uid: 67563e62-6df1-b795-165a-7bf1426cc166

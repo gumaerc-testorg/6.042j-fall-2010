@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 128af59a-7371-3799-436b-b5af64143a22
 resourcetype: Document
 title: '6.042J Chapter 9: Sums and asymptotics'
 uid: c110f2c1-483f-d57a-9c97-ebde0be38f75

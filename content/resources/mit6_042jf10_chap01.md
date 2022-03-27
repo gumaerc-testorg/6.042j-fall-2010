@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 128af59a-7371-3799-436b-b5af64143a22
 resourcetype: Document
 title: '6.042J Chapter 1: Propositions'
 uid: 7853d585-044e-f21b-ce5f-48ce5fc89d28

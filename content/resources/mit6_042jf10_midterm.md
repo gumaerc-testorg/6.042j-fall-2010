@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2fed6634-52c5-103a-ec78-02b3223aa48e
 resourcetype: Document
 title: MIT6_042JF10_midterm.pdf
 uid: 4ee24d59-458b-e012-2420-4a330cff7eca

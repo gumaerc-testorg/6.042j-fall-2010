@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 128af59a-7371-3799-436b-b5af64143a22
 resourcetype: Document
 title: '6.042J Chapter 12: Generating functions'
 uid: aadb9105-d113-9c86-6272-ca0425fc6440

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: The Mating Algorithm ([PDF](resources/mit6_042jf10_mating))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Matching Problems'
 uid: 9694c213-2f52-0ce3-ddc5-530aff3a2e4d
 video_files:

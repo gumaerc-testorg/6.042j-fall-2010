@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2fed6634-52c5-103a-ec78-02b3223aa48e
 resourcetype: Document
 title: MIT6_042JF10_mid_pctce_sol.pdf
 uid: b7bffa97-7868-220b-b3c2-62f4cb8875eb

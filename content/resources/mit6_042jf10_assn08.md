@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 08112a09-cc2d-67e2-273a-6f15e8d43486
 resourcetype: Document
 title: MIT6_042JF10_assn08.pdf
 uid: f1c8291c-19f0-b063-6e4f-11522014c44f
