@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course topics, prerequisites,
+  meeting times, reading, homework and exams, collaboration, grading, and how to succeed.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -11,7 +13,7 @@ Welcome to 6.042! In this course, we'll teach you some mathematics that we think
 Prerequisites
 -------------
 
-The only prerequisite is [18.01](/courses/18-01-single-variable-calculus-fall-2006/). If you have already taken [18.310](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/) or [6.046](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/), then you should not take 6.042.
+The only prerequisite is [18.01](/courses/18-01-single-variable-calculus-fall-2006). If you have already taken [18.310](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013) or [6.046](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005), then you should not take 6.042.
 
 Course Meeting Times
 --------------------
@@ -23,7 +25,7 @@ Recitations: 2 sessions / week, 1 hour / session
 Reading
 -------
 
-The text is _Mathematics for Computer Science_, available in the [Readings]({{< baseurl >}}/pages/readings) section. Reading will be assigned each week with the problem sets.
+The text is _Mathematics for Computer Science_, available in the {{% resource_link 128af59a-7371-3799-436b-b5af64143a22 "Readings" %}} section. Reading will be assigned each week with the problem sets.
 
 Homework and Exams
 ------------------

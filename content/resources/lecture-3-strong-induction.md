@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Top Ten Proof Techniques Not Allowed in 6.042 ([PDF](resources/mit6_042jf10_proof))
+related_resources_text: Top Ten Proof Techniques Not Allowed in 6.042 ([PDF](/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/mit6_042jf10_proof))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Covers strong induction as a tool for proofs. Introduction to invariants with different games, including the n–block game and grid puzzles.
 
 **Speaker:** Tom Leighton
+
+
+

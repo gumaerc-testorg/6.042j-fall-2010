@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** An introduction to proof techniques, covering proof by contradiction and induction, with an emphasis on the inductive techniques used in proof by induction.
 
 **Speaker:** Tom Leighton
+
+
+

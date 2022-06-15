@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-042j-mathematics-for-computer-science-fall-2010/fa1c71923e2802c8415a16fadb541bb0_Kqf0uO0oV6s.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/fa1c71923e2802c8415a16fadb541bb0_Kqf0uO0oV6s.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

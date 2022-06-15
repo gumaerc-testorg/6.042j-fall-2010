@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -29,3 +30,6 @@ video_metadata:
 **Speaker:** Marten van Dijk
 
 The last 30 minutes of this video are not available.
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Explores the various measures of connectivity of graphs and how these can be used to categorize and analyze graphs.
 
 **Speaker:** Marten van Dijk
+
+
+

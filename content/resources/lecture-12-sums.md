@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** An introduction to sums through examination of real–world problems like annuities. Covers finding closed form solutions and bounds with the perturbation, derivative, and integral methods.
 
 **Speaker:** Tom Leighton
+
+
+
