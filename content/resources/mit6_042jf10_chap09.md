@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2010/c110f2c1483fd57
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.042J Chapter 9: Sums and asymptotics'
 uid: c110f2c1-483f-d57a-9c97-ebde0be38f75
 ---
 This resource contains information about Sums and asymptotics.
-

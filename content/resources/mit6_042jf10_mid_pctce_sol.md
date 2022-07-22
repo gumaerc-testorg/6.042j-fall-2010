@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2010/b7bffa977868220
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_042JF10_mid_pctce_sol.pdf
 uid: b7bffa97-7868-220b-b3c2-62f4cb8875eb
 ---
 This resource contains practice midterm exam. 
-

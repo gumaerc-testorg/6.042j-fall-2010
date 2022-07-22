@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2010/eb5072ea046760b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.042J Chapter 20: Random walks'
 uid: eb5072ea-0467-60bb-81e5-ce6bc1c97b37
 ---
 This resource contains information about Random walks.
-

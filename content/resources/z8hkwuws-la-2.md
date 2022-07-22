@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-042j-mathematics-for-computer-science-fall-2010/bf62753df9ea5b6cbdf73887ca43ffd1_z8HKWUWS-lA.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

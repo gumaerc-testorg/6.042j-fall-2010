@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Introduces the concept of recursion applied to various recurrence problems, such as the Towers of Hanoi and the Merge Sort algorithm, as well as their asymptotic analysis using the Akra–Bazzi method.
 
 **Speaker:** Tom Leighton
-
-
 

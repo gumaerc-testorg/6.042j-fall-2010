@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Covers large deviation. Like expectation, it gives three other notions in solving bounds and many frequently experienced problems in computer science, such as determining the probability a random variable will deviate from its expectation.
 
 **Speaker:** Tom Leighton
-
-
 

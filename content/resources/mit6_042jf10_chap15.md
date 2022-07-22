@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2010/d642d816867bcd2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.042J Chapter 15: Conditional probability'
 uid: d642d816-867b-cd20-5926-eefaa116edd8
 ---
 This resource contains information about Conditional probability.
-

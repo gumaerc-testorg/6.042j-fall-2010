@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2010/1d18940fa4fce94
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_042JF10_assn06.pdf
 uid: 1d18940f-a4fc-e94e-50ad-b0b2c9757ecd
 ---
 This resource contains assignment 6. 
-

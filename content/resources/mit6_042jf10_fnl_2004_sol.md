@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2010/ada5226b2986f45
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_042JF10_fnl_2004_sol.pdf
 uid: ada5226b-2986-f45a-03ce-10a46137d8ee
 ---
 This resource contains solutions of 2004 final exam. 
-

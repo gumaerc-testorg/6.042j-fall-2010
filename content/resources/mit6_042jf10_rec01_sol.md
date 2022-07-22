@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2010/a48e6fe503bf94a
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_042JF10_rec01_sol.pdf
 uid: a48e6fe5-03bf-94a1-ac3d-78cb659026fc
 ---
 This resource contains solutions of logic, proving an implication. 
-

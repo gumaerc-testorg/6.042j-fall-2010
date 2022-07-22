@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2010/93cad640cf3ed0b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.042J Complete course notes '
 uid: 93cad640-cf3e-d0b2-3ef7-0688f452d4d5
 ---
 This resource contains Complete course notes.
-

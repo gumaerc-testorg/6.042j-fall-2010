@@ -6,6 +6,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2010/d3a401bca011ac9
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_042JF10_rec13_sol.pdf
 uid: d3a401bc-a011-ac96-cfc8-d0f689b5522f
 ---
 This resource contains solutions of asymptotic notation, asymptotic equivalence. 
-

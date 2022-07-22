@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2010/9224f62575a0721
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_042JF10_rec20_sol.pdf
 uid: 9224f625-75a0-7217-9381-5249656f967e
 ---
 This resource contains solutions of philosophy of probability.
-
