@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of logic, proving an implication. '
 file: /courses/6-042j-mathematics-for-computer-science-fall-2010/a48e6fe503bf94a1ac3d78cb659026fc_MIT6_042JF10_rec01_sol.pdf
+file_size: 213430
 file_type: application/pdf
 learning_resource_types:
 - Recitations
