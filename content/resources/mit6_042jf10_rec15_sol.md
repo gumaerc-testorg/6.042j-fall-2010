@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of counting problems, pigeonhole principle. '
 file: /courses/6-042j-mathematics-for-computer-science-fall-2010/a784497ca2bfa98ecb310214329c9b7e_MIT6_042JF10_rec15_sol.pdf
+file_size: 260168
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-042j-mathematics-for-computer-science-fall-2010/f883f89603b757c0b60579d7d18606e1_MOfhhFaQdjw.vtt
+file_size: 93288
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

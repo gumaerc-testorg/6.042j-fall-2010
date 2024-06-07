@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about Graph theory.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2010/f471f7b7034fabe8bbba5507df7d307f_MIT6_042JF10_chap05.pdf
+file_size: 971785
 file_type: application/pdf
 learning_resource_types:
 - Readings
