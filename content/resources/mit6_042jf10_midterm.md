@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains midterm exam. '
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/4ee24d59458be01224204a330cff7eca_MIT6_042JF10_midterm.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/4ee24d59458be01224204a330cff7eca_MIT6_042JF10_midterm.pdf
 file_size: 185357
 file_type: application/pdf
 learning_resource_types:
