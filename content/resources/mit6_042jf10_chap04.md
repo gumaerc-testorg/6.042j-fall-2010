@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about Number theory.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/a608e339ab265c79de46c7c3830a49cb_MIT6_042JF10_chap04.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/a608e339ab265c79de46c7c3830a49cb_MIT6_042JF10_chap04.pdf
 file_size: 365535
 file_type: application/pdf
 learning_resource_types:

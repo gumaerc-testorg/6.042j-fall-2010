@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains solutions of total probability law. '
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/7567cfececbed06faf7e11cc32f6f4ad_MIT6_042JF10_rec18_sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/7567cfececbed06faf7e11cc32f6f4ad_MIT6_042JF10_rec18_sol.pdf
 file_size: 183868
 file_type: application/pdf
 learning_resource_types:
