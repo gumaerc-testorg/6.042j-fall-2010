@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains assignment 7. '
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/41ee8661082630bb68c9d3babffeefbd_MIT6_042JF10_assn07.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/41ee8661082630bb68c9d3babffeefbd_MIT6_042JF10_assn07.pdf
 file_size: 197662
 file_type: application/pdf
 learning_resource_types:

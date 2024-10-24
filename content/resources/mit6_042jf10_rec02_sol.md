@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains solutions of induction. '
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/d428ae6b0f85ba4c6520e0830e5f3964_MIT6_042JF10_rec02_sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/d428ae6b0f85ba4c6520e0830e5f3964_MIT6_042JF10_rec02_sol.pdf
 file_size: 78539
 file_type: application/pdf
 learning_resource_types:

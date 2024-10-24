@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains solutions of probability, Monty Hall problem. '
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/aceafb7e60eac3c2c9a55e40a5a376bf_MIT6_042JF10_rec17_sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/aceafb7e60eac3c2c9a55e40a5a376bf_MIT6_042JF10_rec17_sol.pdf
 file_size: 194165
 file_type: application/pdf
 learning_resource_types:

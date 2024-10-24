@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about Deviations.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/6c942e0720244be28959e968aae62e16_MIT6_042JF10_chap19.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/6c942e0720244be28959e968aae62e16_MIT6_042JF10_chap19.pdf
 file_size: 401548
 file_type: application/pdf
 learning_resource_types:

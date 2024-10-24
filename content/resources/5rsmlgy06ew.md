@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/26b65f4eb598f22e1edce8acd320bb05_5RSMLgy06Ew.srt
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/26b65f4eb598f22e1edce8acd320bb05_5RSMLgy06Ew.srt
 file_size: 95426
 file_type: application/x-subrip
 learning_resource_types: []

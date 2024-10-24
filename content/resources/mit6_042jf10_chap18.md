@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about Expectation.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/b61628dbe4b2e1d264f12c8ada491766_MIT6_042JF10_chap18.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/b61628dbe4b2e1d264f12c8ada491766_MIT6_042JF10_chap18.pdf
 file_size: 368214
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about Infinite sets.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/ddbf7b0dec318467d2a3bf1fa9191100_MIT6_042JF10_chap13.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/ddbf7b0dec318467d2a3bf1fa9191100_MIT6_042JF10_chap13.pdf
 file_size: 220193
 file_type: application/pdf
 learning_resource_types:
