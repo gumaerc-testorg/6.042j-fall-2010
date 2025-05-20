@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains practice midterm exam. '
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/b7bffa977868220bb3c262f4cb8875eb_MIT6_042JF10_mid_pctce_sol.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/b7bffa977868220bb3c262f4cb8875eb_MIT6_042JF10_mid_pctce_sol.pdf
 file_size: 262570
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams
+- Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams

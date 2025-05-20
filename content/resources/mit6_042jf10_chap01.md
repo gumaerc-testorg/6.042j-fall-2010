@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Propositions.
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/7853d585044ef21bce5f48ce5fc89d28_MIT6_042JF10_chap01.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/7853d585044ef21bce5f48ce5fc89d28_MIT6_042JF10_chap01.pdf
 file_size: 255245
 file_type: application/pdf
 image_metadata:

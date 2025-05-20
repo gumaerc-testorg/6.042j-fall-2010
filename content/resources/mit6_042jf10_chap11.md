@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Cardinality rules.
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/fd14182dfb1a679eda5cbd38c48c8bb5_MIT6_042JF10_chap11.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/fd14182dfb1a679eda5cbd38c48c8bb5_MIT6_042JF10_chap11.pdf
 file_size: 898463
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of stable marriage problem. '
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/264c08ac4d6737d1d190c319076c0339_MIT6_042JF10_rec07_sol.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/264c08ac4d6737d1d190c319076c0339_MIT6_042JF10_rec07_sol.pdf
 file_size: 167760
 file_type: application/pdf
 image_metadata:

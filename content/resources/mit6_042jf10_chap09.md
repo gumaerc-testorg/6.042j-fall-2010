@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Sums and asymptotics.
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/c110f2c1483fd57a9c97ebde0be38f75_MIT6_042JF10_chap09.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/c110f2c1483fd57a9c97ebde0be38f75_MIT6_042JF10_chap09.pdf
 file_size: 531656
 file_type: application/pdf
 image_metadata:
