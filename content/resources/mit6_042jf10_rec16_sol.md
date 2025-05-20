@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of combinatorial proof, more counting. '
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/92126efe49394a8564aa0bf70aea3f37_MIT6_042JF10_rec16_sol.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/92126efe49394a8564aa0bf70aea3f37_MIT6_042JF10_rec16_sol.pdf
 file_size: 232862
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Generating functions.
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/aadb9105d1139c866272ca0425fc6440_MIT6_042JF10_chap12.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/aadb9105d1139c866272ca0425fc6440_MIT6_042JF10_chap12.pdf
 file_size: 277950
 file_type: application/pdf
 image_metadata:

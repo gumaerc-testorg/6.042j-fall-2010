@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Recurrences.
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/18b5495f7408055f9679e3afebb108ab_MIT6_042JF10_chap10.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/18b5495f7408055f9679e3afebb108ab_MIT6_042JF10_chap10.pdf
 file_size: 375782
 file_type: application/pdf
 image_metadata:

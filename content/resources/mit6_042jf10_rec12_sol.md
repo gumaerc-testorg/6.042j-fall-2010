@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of the L-tower problem, double sums. '
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/0500ce233605828a0c556c282353e0af_MIT6_042JF10_rec12_sol.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/0500ce233605828a0c556c282353e0af_MIT6_042JF10_rec12_sol.pdf
 file_size: 194681
 file_type: application/pdf
 image_metadata:
