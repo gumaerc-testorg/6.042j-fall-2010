@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Events and probability spaces.
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/67563e626df1b795165a7bf1426cc166_MIT6_042JF10_chap14.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/67563e626df1b795165a7bf1426cc166_MIT6_042JF10_chap14.pdf
 file_size: 381333
 file_type: application/pdf
 image_metadata:

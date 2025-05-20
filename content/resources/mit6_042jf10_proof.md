@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to top ten proof techniques
   not allowed in 6.042.
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/9f565760fc876e8ce22f822e7471faa9_MIT6_042JF10_proof.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/9f565760fc876e8ce22f822e7471faa9_MIT6_042JF10_proof.pdf
 file_size: 308985
 file_type: application/pdf
 image_metadata:

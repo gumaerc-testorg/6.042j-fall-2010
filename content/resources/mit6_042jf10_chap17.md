@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Random variables and distributions.
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/6942723a3a99c1e7cfe0c3210b6f13ca_MIT6_042JF10_chap17.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/6942723a3a99c1e7cfe0c3210b6f13ca_MIT6_042JF10_chap17.pdf
 file_size: 361779
 file_type: application/pdf
 image_metadata:

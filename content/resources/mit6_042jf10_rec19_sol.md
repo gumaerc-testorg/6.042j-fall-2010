@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions of Bayes' rule.
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/7eaa74096b597221f259cf5ddbb3c13b_MIT6_042JF10_rec19_sol.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/7eaa74096b597221f259cf5ddbb3c13b_MIT6_042JF10_rec19_sol.pdf
 file_size: 198998
 file_type: application/pdf
 image_metadata:

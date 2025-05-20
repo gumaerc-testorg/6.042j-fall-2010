@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Induction.
 draft: false
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/e5079d6e1b0dc66d426df26e05dee250_MIT6_042JF10_chap03.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2010/e5079d6e1b0dc66d426df26e05dee250_MIT6_042JF10_chap03.pdf
 file_size: 465854
 file_type: application/pdf
 image_metadata:
