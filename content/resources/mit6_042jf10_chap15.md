@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Conditional probability.
 draft: false
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/d642d816867bcd205926eefaa116edd8_MIT6_042JF10_chap15.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/d642d816867bcd205926eefaa116edd8_MIT6_042JF10_chap15.pdf
 file_size: 319649
 file_type: application/pdf
 image_metadata:

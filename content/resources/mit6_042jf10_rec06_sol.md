@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of graph basics. '
 draft: false
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/414803a4aff408a721f227c8508099d8_MIT6_042JF10_rec06_sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/414803a4aff408a721f227c8508099d8_MIT6_042JF10_rec06_sol.pdf
 file_size: 170227
 file_type: application/pdf
 image_metadata:

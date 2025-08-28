@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions of philosophy of probability.
 draft: false
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/9224f62575a0721793815249656f967e_MIT6_042JF10_rec20_sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/9224f62575a0721793815249656f967e_MIT6_042JF10_rec20_sol.pdf
 file_size: 211449
 file_type: application/pdf
 image_metadata:

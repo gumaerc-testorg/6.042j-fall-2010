@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of 2006 final exam. '
 draft: false
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/0784229be9fefe9bd73ae0f320995412_MIT6_042JF10_fnl_2006_sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/0784229be9fefe9bd73ae0f320995412_MIT6_042JF10_fnl_2006_sol.pdf
 file_size: 326185
 file_type: application/pdf
 image_metadata:
