@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of state machines. '
 draft: false
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/53de72598d04039f51069ac2e1ac812e_MIT6_042JF10_rec03_sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/53de72598d04039f51069ac2e1ac812e_MIT6_042JF10_rec03_sol.pdf
 file_size: 209674
 file_type: application/pdf
 image_metadata:
