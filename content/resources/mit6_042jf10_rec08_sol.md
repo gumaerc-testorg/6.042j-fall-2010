@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of build-up error, the grow algorithm. '
 draft: false
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/09a7ad2282e4c198e03c74e342be8b2f_MIT6_042JF10_rec08_sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/09a7ad2282e4c198e03c74e342be8b2f_MIT6_042JF10_rec08_sol.pdf
 file_size: 213620
 file_type: application/pdf
 image_metadata:

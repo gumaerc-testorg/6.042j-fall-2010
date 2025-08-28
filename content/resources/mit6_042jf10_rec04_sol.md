@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of greatest common divisor. '
 draft: false
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/4f6767747decf6209215cfe789cef5f6_MIT6_042JF10_rec04_sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/4f6767747decf6209215cfe789cef5f6_MIT6_042JF10_rec04_sol.pdf
 file_size: 230054
 file_type: application/pdf
 image_metadata:

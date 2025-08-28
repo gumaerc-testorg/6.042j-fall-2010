@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains solutions of conditional expectation and total
   expectation. '
 draft: false
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/fcb9e90be9f4847d91034e8ab873099d_MIT6_042JF10_rec21_sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/fcb9e90be9f4847d91034e8ab873099d_MIT6_042JF10_rec21_sol.pdf
 file_size: 216442
 file_type: application/pdf
 image_metadata:

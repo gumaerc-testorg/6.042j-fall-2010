@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Independence.
 draft: false
-file: /courses/6-042j-mathematics-for-computer-science-fall-2010/9907ae0740731964bce45d8fc06989d2_MIT6_042JF10_chap16.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2010/9907ae0740731964bce45d8fc06989d2_MIT6_042JF10_chap16.pdf
 file_size: 266354
 file_type: application/pdf
 image_metadata:
